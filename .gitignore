@@ -1,0 +1,5 @@
+whiteboard-backend/.env
+whiteboard-backend/node_modules/
+
+whiteboard-frontend/.env
+whiteboard-frontend/node_modules/
